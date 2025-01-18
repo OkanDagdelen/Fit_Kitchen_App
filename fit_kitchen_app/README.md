@@ -1,4 +1,4 @@
-Fit Kitchen (Demo Uygulama) Bu proje nedir?
+Fit Kitchen (Demo Uygulama)
 
 Fit Kitchen, Flutter kullanılarak geliştirilen temel bir arayüz prototipidir. Uygulama, farklı kategorilerdeki diyet önerilerini ve popüler diyetleri listeleyen kart tabanlı bir kullanıcı arayüzü sunar. Bu proje yalnızca öğrenme ve deneme amaçlı hazırlanmıştır; işlevsellik veya veri yönetimi açısından tamamlanmış bir ürün değildir.
 
