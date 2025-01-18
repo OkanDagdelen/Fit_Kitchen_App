@@ -1,16 +1,12 @@
-# fitness
+Fit Kitchen (Demo Uygulama) Bu proje nedir?
 
-A new Flutter project.
+Fit Kitchen, Flutter kullanılarak geliştirilen temel bir arayüz prototipidir. Uygulama, farklı kategorilerdeki diyet önerilerini ve popüler diyetleri listeleyen kart tabanlı bir kullanıcı arayüzü sunar. Bu proje yalnızca öğrenme ve deneme amaçlı hazırlanmıştır; işlevsellik veya veri yönetimi açısından tamamlanmış bir ürün değildir.
 
-## Getting Started
+Özellikler Arama çubuğu ve filtreleme simgesi Kategori kartlarını yatay kaydırma Diyet önerileri için kart görünümleri Popüler diyetler için listeleme ve kart seçimi efekti
 
-This project is a starting point for a Flutter application.
+Teknolojiler Flutter: UI geliştirme Dart: Programlama dili flutter_svg: SVG varlıklarını görüntülemek için kullanılan kütüphane
 
-A few resources to get you started if this is your first Flutter project:
+Uygulama sadece bir UI prototipidir, veri kaynağı veya işlevsel bir backend ile entegre değildir. Tıklama veya gezinti gibi kullanıcı etkileşimleri için placeholder fonksiyonlar kullanılmaktadır.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/user-attachments/assets/b0d4e4fb-6ad8-47d2-9a33-fda7a4bb99c1" width="300">
+<img src="https://github.com/user-attachments/assets/342d3439-2948-4569-8ecd-53f706aa535b" width="300">
